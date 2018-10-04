@@ -1,0 +1,18 @@
+body {
+	text-align:center;
+	background-color:#000000;
+	color:#007777;
+	font-size:12vmin;
+	padding: 18vmin 0vh;
+	font-weight:600;
+	margin:0px;
+	text-shadow:0.01em 0.01em 0px #888888;
+	width:100vw;
+	height:64vh;
+	overflow-x:hidden;
+}
+#container {
+	width:100vmin;
+	height:64vh;
+	margin:0px auto;
+}
